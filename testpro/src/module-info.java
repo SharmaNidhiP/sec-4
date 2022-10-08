@@ -6,4 +6,5 @@
  *
  */
 module testpro {
+  System.out.println("Hello world");
 }
